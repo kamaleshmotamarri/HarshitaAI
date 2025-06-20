@@ -1,7 +1,7 @@
 # HarshitaAI
 This is a simple and funny chatbot I made of my friend Harshul using Gemini API during my early days of learning Python and API's.
 
-Harshita AI
+
 Harshita AI is a simple desktop chatbot application built with Python and Tkinter. It uses the Gemini AI API to generate intelligent responses to user queries in real time.
 
 Features
